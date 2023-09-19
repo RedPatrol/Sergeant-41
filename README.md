@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sergeant-41
+- 👋 Hi, I’m @Sujan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Frontend Web Development. 
 - 💞️ I’m looking to collaborate on vs.
